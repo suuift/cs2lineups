@@ -8,6 +8,16 @@ Stand
 Jump throw
 ![cs2_LsC4uHVLoc](https://github.com/suuift/cs2lineups/assets/107600747/ca20714a-eea4-4269-8e6d-2b608669c8d2)
 
+
+### Heaven/CT Smoke
+
+Stand
+![cs2_ZcJIyaoyvQ](https://github.com/suuift/cs2lineups/assets/107600747/d9186c28-05c8-40ed-8183-c1388d8d3182)
+
+Throw
+![cs2_0pXy575r8b](https://github.com/suuift/cs2lineups/assets/107600747/37fbeaac-f01d-4686-8c1d-3e3e3cf31334)
+
+
 # B Lineups
 
 ### T Spawn Default B Smoke
